@@ -1,0 +1,28 @@
+{
+  "users": [
+    {
+      "id": 67595368,
+      "firstName": "Ophelia",
+      "lastName": "Bruen",
+      "email": "Destinee_Kiehn@yahoo.com"
+    },
+    {
+      "id": 40226241,
+      "firstName": "Hal",
+      "lastName": "Toy",
+      "email": "Missouri.Feeney@hotmail.com"
+    },
+    {
+      "id": 9759667,
+      "firstName": "Abby",
+      "lastName": "Marks",
+      "email": "Pierre.Willms@gmail.com"
+    },
+    {
+      "id": 47642309,
+      "firstName": "Colten",
+      "lastName": "Dooley",
+      "email": "Mohamed_Heidenreich99@hotmail.com"
+    }
+  ]
+}
